@@ -2,20 +2,16 @@
 
 @theme {
   --color-background: var(--background);
-  --font-heading: 'Space Grotesk', sans-serif;
-  --font-body: 'DM Sans', sans-serif;
-  --color-background: #FDFBF7;
-  /* Warm Cream */
-  --foreground: #1A1A1A;
-  /* Soft Black */
-  --surface: #FFFFFF;
-  --primary: #4ECDC4;
-  /* Teal */
-  --secondary: #1A535C;
-  /* Deep Blue */
-  --accent-yellow: #FFE66D;
-  --accent-blue: #4ECDC4;
-  --accent-coral: #FF6B6B;
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent-yellow: var(--accent-yellow);
+  --color-accent-blue: var(--accent-blue);
+  --color-accent-coral: var(--accent-coral);
+
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
 }
 
 :root {
