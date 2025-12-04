@@ -33,6 +33,15 @@ const projects = [
     },
     {
         id: 4,
+        title: "Expense Tracker",
+        description: "Track your daily expenses and manage your budget efficiently.",
+        tags: ["React", "Finance", "Tracker"],
+        color: "bg-accent-blue",
+        size: "col-span-1",
+        link: "https://expense.naveen-s.com"
+    },
+    {
+        id: 5,
         title: "Portfolio V2",
         description: "This very website! Built with Next.js & Love.",
         tags: ["React", "Tailwind"],

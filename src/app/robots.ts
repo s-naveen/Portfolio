@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://naveen-portfolio.pages.dev/sitemap.xml',
+        sitemap: 'https://naveen-s.com/sitemap.xml',
     };
 }

@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export default function sitemap(): MetadataRoute.Sitemap {
     return [
         {
-            url: 'https://naveen-portfolio.pages.dev',
+            url: 'https://naveen-s.com',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 1,
